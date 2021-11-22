@@ -6,4 +6,7 @@
 ### [Soft Delete in Sequelize](https://www.topcoder.com/thrive/articles/paranoid-tables-in-sequelize-orm-implementing-soft-delete)
 ### [CORS Error](https://www.topcoder.com/thrive/articles/cors-errors-and-how-to-solve-them)
 ### [Sequelize Aggregations](https://www.topcoder.com/thrive/articles/sequelize-aggregations)
+### [Introduction to Web sockets](https://www.topcoder.com/thrive/articles/web-sockets-introduction-using-nodejs)
+### [CRUD operations using Sequelize](https://www.topcoder.com/thrive/articles/crud-operations-with-mysql-using-sequelize)
+### [MANAGING DATABASE TRANSACTIONS USING SEQUELIZE](https://www.topcoder.com/thrive/articles/managing-database-transactionsa-using-sequelize)
 And many more coming
