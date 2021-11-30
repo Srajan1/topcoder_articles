@@ -9,4 +9,7 @@
 ### [Introduction to Web sockets](https://www.topcoder.com/thrive/articles/web-sockets-introduction-using-nodejs)
 ### [CRUD operations using Sequelize](https://www.topcoder.com/thrive/articles/crud-operations-with-mysql-using-sequelize)
 ### [MANAGING DATABASE TRANSACTIONS USING SEQUELIZE](https://www.topcoder.com/thrive/articles/managing-database-transactionsa-using-sequelize)
+### [DATABASE PARADIGMS AND WHICH ONE TO USE FOR YOUR USE CASE](https://www.topcoder.com/thrive/articles/database-paradigms-and-which-one-to-use-for-your-use-case)
+### [EXPRESS ERROR HANDLING](https://www.topcoder.com/thrive/articles/express-error-handling)
+### [MIDDLEWARE IN EXPRESS.JS](https://www.topcoder.com/thrive/articles/middleware-in-express-js)
 And many more coming
