@@ -16,6 +16,6 @@
 ### [C++ file handling](https://www.topcoder.com/thrive/articles/c-file-handling)
 ### [Curl: a request and response tool](https://www.topcoder.com/thrive/articles/curl-a-request-and-response-tool)
 ### [Promises in Javascript](https://www.topcoder.com/thrive/articles/promises-in-javascript)
-### [Data validation in nodejs and express with Joi](https://www.topcoder.com/thrive/articles/typescript-basics)
+### [Data validation in nodejs and express with Joi](https://www.topcoder.com/thrive/articles/data-validation-in-nodejs-and-express-using-joi)
 
 And many more coming
