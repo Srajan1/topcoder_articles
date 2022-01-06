@@ -11,5 +11,11 @@
 ### [MANAGING DATABASE TRANSACTIONS USING SEQUELIZE](https://www.topcoder.com/thrive/articles/managing-database-transactionsa-using-sequelize)
 ### [DATABASE PARADIGMS AND WHICH ONE TO USE FOR YOUR USE CASE](https://www.topcoder.com/thrive/articles/database-paradigms-and-which-one-to-use-for-your-use-case)
 ### [EXPRESS ERROR HANDLING](https://www.topcoder.com/thrive/articles/express-error-handling)
+### [TypeScript basics](https://www.topcoder.com/thrive/articles/typescript-basics)
 ### [MIDDLEWARE IN EXPRESS.JS](https://www.topcoder.com/thrive/articles/middleware-in-express-js)
+### [C++ file handling](https://www.topcoder.com/thrive/articles/c-file-handling)
+### [Curl: a request and response tool](https://www.topcoder.com/thrive/articles/curl-a-request-and-response-tool)
+### [Promises in Javascript](https://www.topcoder.com/thrive/articles/promises-in-javascript)
+### [Data validation in nodejs and express with Joi](https://www.topcoder.com/thrive/articles/typescript-basics)
+
 And many more coming
